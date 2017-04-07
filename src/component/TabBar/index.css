@@ -1,0 +1,26 @@
+.tabBar img{
+	height: 24px;
+	display: block;
+	margin: 0 33%;
+}
+.tabBar span{
+	font-size: 10px;}
+body {
+ margin: 0
+}
+
+ul {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #000;
+    padding-top: 10px
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    width: 50%;
+    float: left;
+}

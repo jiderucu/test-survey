@@ -1,0 +1,33 @@
+{
+  "name": "townMap",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "normalize.css": "^5.0.0",
+    "pinchzoom": "^0.8.3",
+    "react-element-pan": "^1.0.9",
+    "react-frame-component": "^1.0.2",
+    "react-router": "^4.0.0",
+    "react-scripts": "0.9.5",
+    "rimraf": "^2.6.1"
+  },
+  "dependencies": {
+    "rc-progress": "^2.1.0",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
+    "react-ios-switch": "^0.1.10",
+    "react-progress": "0.0.12",
+    "react-router": "^2.8.0",
+    "react-switchery": "^1.1.1",
+    "react-weui": "^1.0.3",
+    "weui": "^0.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "clean:modules": "rimraf node_modules"
+  }
+}
